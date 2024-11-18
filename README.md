@@ -1,5 +1,4 @@
-Got it! Below is a detailed GitHub README for a **Blockchain System written in Golang** designed for integration into Web3 projects.
-
+README is templated since project is only half way finished. Stay tuned
 ```markdown
 # Golang Blockchain for Web3 Integration 🚀
 
